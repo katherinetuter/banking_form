@@ -1,0 +1,15 @@
+#email:valid {
+	color: green;
+}
+
+#email:invalid {
+	color: red;
+}
+
+#url:valid {
+	color: green;
+}
+
+#url:invalid {
+	color: red;
+}
